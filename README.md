@@ -1,4 +1,4 @@
-# Faculty pplication
+# Faculty Application
 -----------------------
 [ Faculty Information Application ]
 
